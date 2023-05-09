@@ -4,7 +4,7 @@
 </p>
 
 <h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
-In this Lab, I observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
+In this Lab, you'll observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -22,10 +22,10 @@ In this Lab, I observe various network traffic to and from Azure Virtual Machine
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Create a windows 10 VM and ubuntu VM 
+- Download wireshark on windows 10 VM with ICMP traffic filter only 
+- Open NSG on ubuntu VM enabling all traffic flow 
+- Observe different protocols of traffic 
 
 <h2>Actions and Observations</h2>
 
