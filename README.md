@@ -22,10 +22,10 @@ In this Lab, you'll observe various network traffic to and from Azure Virtual Ma
 
 <h2>High-Level Steps</h2>
 
-- Create a windows 10 VM and ubuntu VM 
+- Create a windows 10 and ubuntu OS in an azure VM 
 - Download wireshark on windows 10 VM with ICMP traffic filter only 
 - Open NSG on ubuntu VM enabling all traffic flow 
-- Observe different protocols of traffic 
+- Observe various traffic protocols  
 
 <h2>Actions and Observations</h2>
 
